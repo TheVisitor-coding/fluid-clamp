@@ -1,0 +1,20 @@
+{
+  "name": "@matteorossiroy/fluid-clamp",
+  "version": "1.0.0",
+  "description": "Utilitaire CSS pour générer une taille fluide entre deux tailles",
+  "keywords": [
+    "css",
+    "util",
+    "clamp"
+  ],
+  "license": "MIT",
+  "author": "Matteo ROSSI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.4.2"
+  }
+}
