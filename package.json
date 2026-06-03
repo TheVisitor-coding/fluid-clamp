@@ -1,6 +1,6 @@
 {
   "name": "@matteorossiroy/fluid-clamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilitaire CSS pour générer une taille fluide entre deux tailles",
   "keywords": [
     "css",
