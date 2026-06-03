@@ -16,5 +16,9 @@
   },
   "dependencies": {
     "jest": "^30.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheVisitor-coding/fluid-clamp.git"
   }
 }
